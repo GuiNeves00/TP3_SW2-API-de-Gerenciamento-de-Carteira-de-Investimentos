@@ -27,7 +27,7 @@ Siga os passos abaixo para colocar a aplicação em funcionamento.
 Abra seu terminal e clone este projeto para sua máquina local:
 
 ```bash
-git clone <https://github.com/GuiNeves00/TP3_SW2-API-de-Gerenciamento-de-Carteira-de-Investimentos.git>
+git clone https://github.com/GuiNeves00/TP3_SW2-API-de-Gerenciamento-de-Carteira-de-Investimentos.git
 cd tp3_sw2
 ```
 
