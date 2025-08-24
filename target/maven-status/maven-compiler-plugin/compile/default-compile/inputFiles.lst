@@ -1,0 +1,9 @@
+/Users/guineves/Neves/Profissional/UFOP/TP3_SW2/tp3_sw2/src/main/java/br/com/ufop/tp3_sw2/dto/InvestmentRequestDTO.java
+/Users/guineves/Neves/Profissional/UFOP/TP3_SW2/tp3_sw2/src/main/java/br/com/ufop/tp3_sw2/Tp3Sw2Application.java
+/Users/guineves/Neves/Profissional/UFOP/TP3_SW2/tp3_sw2/src/main/java/br/com/ufop/tp3_sw2/model/Investment.java
+/Users/guineves/Neves/Profissional/UFOP/TP3_SW2/tp3_sw2/src/main/java/br/com/ufop/tp3_sw2/dto/InvestmentSummaryDTO.java
+/Users/guineves/Neves/Profissional/UFOP/TP3_SW2/tp3_sw2/src/main/java/br/com/ufop/tp3_sw2/controller/InvestmentController.java
+/Users/guineves/Neves/Profissional/UFOP/TP3_SW2/tp3_sw2/src/main/java/br/com/ufop/tp3_sw2/dto/InvestmentResponseDTO.java
+/Users/guineves/Neves/Profissional/UFOP/TP3_SW2/tp3_sw2/src/main/java/br/com/ufop/tp3_sw2/repository/InvestmentRepository.java
+/Users/guineves/Neves/Profissional/UFOP/TP3_SW2/tp3_sw2/src/main/java/br/com/ufop/tp3_sw2/service/InvestmentService.java
+/Users/guineves/Neves/Profissional/UFOP/TP3_SW2/tp3_sw2/src/main/java/br/com/ufop/tp3_sw2/enums/InvestmentType.java
